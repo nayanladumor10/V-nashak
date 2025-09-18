@@ -1,0 +1,71 @@
+[
+  [
+    " ",
+    {
+      "email": "kachhdiyamaitri1112@gmail.com",
+      "userId": "xi14",
+      "name": "maitri",
+      "phoneNumber": "6754567656",
+      "machineId": null,
+      "status": "ASSIGNED",
+      "createdAt": "2025-07-25T11:40:33.471Z"
+    }
+  ],
+  [
+    "YXNI-V3Y5-YOGP",
+    {
+      "email": "kachhdiyamaitri1112@gmail.com",
+      "userId": "omicron15",
+      "name": "maitri",
+      "phoneNumber": "7654345676",
+      "machineId": "dell-08",
+      "status": "ACTIVATED"
+    }
+  ],
+  [
+    "RN5U-HWRU-G426",
+    {
+      "email": "kachhdiyamaitri1112@gmail.com",
+      "userId": "delta_qa",
+      "name": "maitri",
+      "phoneNumber": "7876787678",
+      "status": "ASSIGNED"
+    }
+  ],
+  [
+    "UYQV-L2F9-7G6L",
+    {
+      "email": "kachhdiyamaitri1112@gmail.com",
+      "userId": "rho_legal",
+      "name": "maitri",
+      "phoneNumber": "5454545454",
+      "status": "ACTIVATED",
+      "machineId": "dell-08",
+      "activatedAt": "2025-07-25T12:13:12.079Z"
+    }
+  ],
+  [
+    "YZTT-CRTY-Y5WC",
+    {
+      "email": "kachhdiyamaitri1112@gmail.com",
+      "userId": "iota_guest",
+      "name": "maitri",
+      "phoneNumber": "6787678767",
+      "status": "ACTIVATED",
+      "machineId": "dell-08",
+      "activatedAt": "2025-07-25T13:09:14.353Z"
+    }
+  ],
+  [
+    "84OV-VZLM-Z8ZS",
+    {
+      "email": "kachhdiyamaitri1112@gmail.com",
+      "userId": "pi_finance",
+      "name": "maitri",
+      "phoneNumber": "8765456787",
+      "status": "ACTIVATED",
+      "machineId": "dell-08",
+      "activatedAt": "2025-07-26T04:28:01.204Z"
+    }
+  ]
+]
